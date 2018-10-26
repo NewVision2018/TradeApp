@@ -1,0 +1,2 @@
+# TradeApp
+Standalone Business Application
